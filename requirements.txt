@@ -1,0 +1,14 @@
+# Training dependencies
+torch>=1.13.0
+torchvision>=0.14.0
+spikingjelly>=0.0.0
+Pillow>=9.0.0
+numpy>=1.23.0
+scikit-learn>=1.1.0
+
+# Optional: analysis and visualization
+matplotlib>=3.6.0
+pandas>=1.5.0
+
+# PYNQ (installed on KV260 board, not needed on host)
+# pynq>=3.0.0
