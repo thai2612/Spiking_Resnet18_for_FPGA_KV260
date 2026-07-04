@@ -1,1 +1,0 @@
-# Spiking_Resnet18_for_FPGA_KV260
