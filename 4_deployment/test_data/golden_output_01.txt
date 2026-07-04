@@ -1,0 +1,4 @@
+# Golden output for test image 1
+logit_0 = 1.053663
+logit_1 = -1.141426
+predicted_class = 0
